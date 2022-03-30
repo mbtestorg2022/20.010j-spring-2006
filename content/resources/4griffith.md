@@ -4,6 +4,7 @@ description: This resource contains introduction, SB in biological engineering, 
   biological engineering vs. biomedical engineering.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8ab91053b0992d47adb7701e8a5ebf85_4griffith.pdf
 file_type: application/pdf
+parent_uid: bc84a3ad-2061-b159-c53d-d141652d8c56
 resourcetype: Document
 title: 4griffith.pdf
 uid: 8ab91053-b099-2d47-adb7-701e8a5ebf85

@@ -4,6 +4,7 @@ description: This resource contains introduction, and development of biomolecula
   materials,
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/952ef436c0603e7fac9f7c5c49310276_3belcher.pdf
 file_type: application/pdf
+parent_uid: bc84a3ad-2061-b159-c53d-d141652d8c56
 resourcetype: Document
 title: 3belcher.pdf
 uid: 952ef436-c060-3e7f-ac9f-7c5c49310276
